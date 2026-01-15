@@ -1,0 +1,4 @@
+home:
+  image: 'images/profile-sepia.png'
+  greetings: 'Bienvenue sur mon blog !'
+  text: "Ici, vous trouverez toutes mes expérimentations sur Linux, mes galères de Homelab et mes réflexions sur l'automatisation."

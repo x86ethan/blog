@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Starter on Ethan Robert</title>
+    <link>//localhost:1313/tags/starter/</link>
+    <description>Recent content in Starter on Ethan Robert</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 24 Mar 2025 23:00:00 -0300</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/starter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>//localhost:1313/posts/getting-started/</link>
+      <pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate>
+      <guid>//localhost:1313/posts/getting-started/</guid>
+      <description>&lt;p&gt;This post will guide you in setting up your very own Hugo site with this theme. It covers the essential parts: &lt;a href=&#34;#Installation&#34;&gt;installation&lt;/a&gt;, &lt;a href=&#34;#usage&#34;&gt;basic usage&lt;/a&gt; and recommended &lt;a href=&#34;#next-steps&#34;&gt;next steps&lt;/a&gt;. After setting up the basics, feel free to also take a look at other &lt;a href=&#34;//localhost:1313/posts/&#34;&gt;posts&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;&#xA;&lt;p&gt;This guide is a shorter version of &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Hugo&amp;rsquo;s quick start&lt;/a&gt; (you may even say it&amp;rsquo;s a quicker start). If you face any problems or want more comprehensive content, make sure to check it out!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

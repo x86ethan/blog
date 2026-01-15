@@ -1,0 +1,27 @@
+# Root
+theme_light: Thème Clair
+theme_dark: Thème Sombre
+
+# Footer
+scroll_top: Retour en haut 
+footer: Fait avec ❤️ et propulsé par {{ .HugoAnchor }} et le thème {{ .ThemeAnchor }}
+
+# Home
+featured_posts: Billets à la une
+recent_posts: Billets récents
+
+# SidePane for home
+search: Rechercher...
+see_all: Voir tout...
+tags: Tags
+series: Séries
+
+# Page
+breadcrumb_home: Accueil
+
+# SidePane for single pages
+details_words: mots
+details_read_time: minutes de lecture
+side_table_of_contents: Sommaire
+side_attachments: Pièces jointes
+side_related: Articles similaires
