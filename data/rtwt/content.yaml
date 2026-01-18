@@ -2,3 +2,8 @@ home:
   image: 'images/profile-sepia.png'
   greetings: 'Bienvenue sur mon blog !'
   text: "Ici, vous trouverez toutes mes expérimentations sur Linux, mes galères de Homelab et mes réflexions sur l'automatisation."
+side:
+  home:
+  - title: "Avertissement"
+    content: "Le certificat SSL de ce site n'est pas encore installé. Il est donc normal que le site ne soit pas accessible en HTTPS."
+    
