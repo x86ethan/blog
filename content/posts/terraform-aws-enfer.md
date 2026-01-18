@@ -1,6 +1,6 @@
 ---
 title: "Terraform vs AWS : Chronique d'une matinée en enfer"
-date: 2026-01-15T11:14:00+01:00
+date: 2026-01-18T11:14:00+01:00
 draft: false
 tags: ["Terraform", "AWS", "GitLab", "OpenTofu", "SRE"]
 categories: ["Rex"]
