@@ -2,3 +2,14 @@ home:
   image: 'images/profile-sepia.png'
   greetings: 'Bienvenue sur mon blog !'
   text: "Ici, vous trouverez toutes mes expérimentations sur Linux, mes galères de Homelab et mes réflexions sur l'automatisation."
+side:
+  home:
+    - title: "Liens utiles"
+      content: "- [GitHub](https://github.com/x86ethan)  \n
+      - [LinkedIn](https://linkedin.com/in/ethan-robert-dev)   \n
+      - [Gitlab](https://gitlab.com/ethan.rbrt90)"
+  single:
+  - title: "Liens utiles"
+    content: "- [GitHub](https://github.com/x86ethan)  \n
+      - [LinkedIn](https://linkedin.com/in/ethan-robert-dev)   \n
+      - [Gitlab](https://gitlab.com/ethan.rbrt90)"
